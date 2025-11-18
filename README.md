@@ -10,3 +10,4 @@ This is project will include the following (outside python code):
     - What grade that SPECIFIC student has in that SPECIFIC subject
     - Change a student's grade  (doesn't matter up or down)
     - see student's ID number
+    - Calculate a student's overall grade and rank them by any title name
